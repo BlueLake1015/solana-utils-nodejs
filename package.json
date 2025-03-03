@@ -1,0 +1,7 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bigint-buffer": "^1.1.5"
+  }
+}
