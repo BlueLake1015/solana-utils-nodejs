@@ -1,5 +1,7 @@
 const { Keypair } = require("@solana/web3.js");
 const bs58 = require('bs58');
+const dotenv = require('dotenv');
+dotenv.config();
 
 async function main() {
     let count = 0;
